@@ -26,7 +26,13 @@
 		Step 4 - echo the variable
 
 	*/
-	
+
+
+
+	$password = "123";
+    $password_encrypted = crypt($password);
+
+    echo $password_encrypted;
 	?>
 
 
