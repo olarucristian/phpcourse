@@ -11,7 +11,7 @@
       <change beforePath="$PROJECT_DIR$/../_mysql/login_delete.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_mysql/login_read.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_mysql/login_update.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.php" beforeDir="false" afterPath="$PROJECT_DIR$/8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.php" beforeDir="false" afterPath="$PROJECT_DIR$/9.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../array_functions.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../arrays.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../arrays_assoc.php" beforeDir="false" />
@@ -88,20 +88,29 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
               <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="e#456#636#0#PHP" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/8.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
               <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
               <folding>
                 <element signature="e#248#431#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <folding>
+                <element signature="e#390#636#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -134,14 +143,15 @@
         <option value="$PROJECT_DIR$/mysql/login.php" />
         <option value="$PROJECT_DIR$/7.php" />
         <option value="$PROJECT_DIR$/8.php" />
+        <option value="$PROJECT_DIR$/9.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="5">
     <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="927" />
-    <option name="height" value="1055" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -149,6 +159,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,7 +176,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,17 +212,18 @@
       <workItem from="1543310549386" duration="6090000" />
       <workItem from="1543395705714" duration="3806000" />
       <workItem from="1543481932808" duration="2931000" />
+      <workItem from="1544085843527" duration="1431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18569000" />
+    <option name="totallyTimeSpent" value="20000000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="927" height="1055" extended-state="4" />
+    <frame x="67" y="25" width="927" height="1053" extended-state="5" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1861521" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1906924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -274,9 +285,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql" />
+    <entry file="file://$PROJECT_DIR$/mysql/login.php" />
     <entry file="file://$PROJECT_DIR$/5.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
@@ -294,28 +304,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/myscript.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#456#636#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -323,6 +323,16 @@
           <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
           <folding>
             <element signature="e#248#431#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#390#636#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
